@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. chocolate
+2. candy
+3. cake
+    1. dance
+    2. zumba
+    3. hiking
